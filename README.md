@@ -1,29 +1,108 @@
-![logo](https://github.com/SachinRathod8088/SachinRathod8088/blob/main/images.jpeg)
-<h1 align="center">Hi 👋, I'm Sachin Rathod</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<!-- Profile Banner -->
+<img src="https://github.com/SachinRathod8088/SachinRathod8088/blob/main/images.jpeg" width="100%" alt="Sachin Rathod Banner" />
 
-<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinrathod8088&label=Profile%20views&color=0e75b6&style=flat" alt="sachinrathod8088" /> </p>
+<h1 align="center">👋 Hi, I'm Sachin Ramu Rathod</h1>
+<h3 align="center">💻 Java Full Stack Developer | MCA Graduate | Pune, Maharashtra, India</h3>
 
-- 🌱 I’m currently learning **core java,python,javascript,React.js**
-
-- 💬 Ask me about **java ,python ,Javascript**
-
-- 📫 How to reach me **Sachinrathod8088@gmail.com**
-
-- ⚡ Fun fact **I am funny 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sachin-rathod-48b960231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sachin-rathod-48b960231" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sachinrathod8088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sachinrathod8088" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:sachinrathod8088@gmail.com"><img src="https://img.shields.io/badge/Email-Sachinrathod8088%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/sachin-rathod-48b960231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sachin%20Rathod-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/SachinRathod8088" target="_blank"><img src="https://img.shields.io/badge/GitHub-SachinRathod8088-black?style=flat-square&logo=github"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinrathod8088&show_icons=true&locale=en&layout=compact" alt="sachinrathod8088" /></p>
+### 🚀 About Me
+I’m **Sachin Ramu Rathod**, a passionate and detail-oriented **Java Full Stack Developer** eager to start my professional journey in the IT industry.  
+I enjoy building efficient, scalable, and user-centric web applications using modern technologies like **Java, Spring Boot, React, and SQL**.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinrathod8088&show_icons=true&locale=en" alt="sachinrathod8088" /></p>
+- 🎓 **MCA Graduate (2024)** from Dr. D. Y. Patil Center for Management & Research, Pune  
+- 🌱 Currently learning **Advanced React, Microservices, and AWS Deployment**  
+- 🤝 Open to **Full Stack / Backend Developer** roles (Java, Spring Boot, React)  
+- 📫 Reach me at: **[Sachinrathod8088@gmail.com](mailto:sachinrathod8088@gmail.com)**  
+- ⚡ Fun fact: I debug my code faster with music 🎧  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinrathod8088&" alt="sachinrathod8088" /></p>
+---
+
+### 💼 Internship Experience
+
+**💻 Full Stack Developer Intern | Ai VARIANT (Remote)**  
+*Sep 2024 – Dec 2024*  
+- Developed a **full-stack Employee Management System** using **Java, Spring Boot, and React**, improving API response by **25%**.  
+- Collaborated in an **Agile team** of 5 developers to deliver production-ready modules.  
+- Optimized backend performance and database queries to enhance scalability.  
+
+**🎨 Front End Developer Intern | Codingsavvy, Pune**  
+*Mar 2024 – May 2024*  
+- Designed **responsive UIs** using HTML, CSS, and Bootstrap.  
+- Integrated REST APIs for dynamic data display, reducing integration issues by **20%**.  
+- Improved **UI accessibility and responsiveness** across multiple devices.
+
+---
+
+### 🎓 Education
+
+**Master of Computer Applications (MCA)** — Dr. D. Y. Patil Center for Management & Research, Pune (2022–2024)  
+**Bachelor of Computer Applications (BCA)** — Arts, Commerce & Science College, Palus, Sangli (2019–2022)
+
+---
+
+### 🧩 Projects
+
+#### 🔹 Employee Management System (Java + Spring Boot + MySQL)
+- Built a **secure, scalable backend** with Spring Security and REST APIs.  
+- Implemented authentication & role-based authorization for data protection.  
+- Enhanced backend efficiency by **25%** and improved UI using Thymeleaf.  
+
+#### 🔹 Easy-Buy E-Commerce Web App (MERN Stack)
+- Developed a **full-stack e-commerce platform** with product management and secure payment modules.  
+- Optimized MongoDB queries to improve product search by **30%**.  
+- Created a **responsive design** improving overall user experience.
+
+---
+
+### 🛠️ Skills & Tools
+
+**Programming:** Java, JavaScript, Python, SQL, HTML5, CSS3  
+**Frameworks:** Spring Boot, React, Hibernate, Microservices, J2EE  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Maven, AWS, VS Code, Postman  
+**Soft Skills:** Problem Solving, Team Collaboration, Analytical Thinking  
+
+---
+
+### 🏆 Certifications
+- **Java Full Stack Development** – ExcelR (2024)  
+- **SQL for Beginners** – Scaler (2024)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sachin-rathod-48b960231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100" /></a>
+<a href="https://github.com/SachinRathod8088" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" width="90" /></a>
+<a href="mailto:sachinrathod8088@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="90" /></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinRathod8088&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinRathod8088&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinRathod8088&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Keywords (For SEO Visibility)
+**Sachin Ramu Rathod**, Java Developer, Full Stack Developer, MCA Fresher, Pune Software Engineer, Spring Boot, React Developer, Entry Level Developer, GitHub Portfolio, Java Projects, Java Full Stack Resume.
+
+---
+
+⭐ **"Code. Learn. Improve. Repeat."** — _Sachin Ramu Rathod_
