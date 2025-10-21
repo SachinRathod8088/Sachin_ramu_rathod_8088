@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://github.com/SachinRathod8088/SachinRathod8088/blob/main/images.jpeg" width="100%" alt="Sachin Rathod Banner" />
+<img src="https://github.com/SachinRathod8088/SachinRathod8088/blob/main/Sachin_Ramu_Rathod__.png" width="100%" alt="Sachin Rathod Banner" />
 
 <h1 align="center">👋 Hi, I'm Sachin Ramu Rathod</h1>
 <h3 align="center">💻 Java Full Stack Developer | MCA Graduate | Pune, Maharashtra, India</h3>
