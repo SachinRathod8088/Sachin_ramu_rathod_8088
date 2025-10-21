@@ -13,16 +13,33 @@
 ---
 
 ### 🚀 About Me
-I’m **Sachin Ramu Rathod**, a passionate and detail-oriented **Java Full Stack Developer** eager to start my professional journey in the IT industry.  
-I enjoy building efficient, scalable, and user-centric web applications using modern technologies like **Java, Spring Boot, React, and SQL**.  
 
-- 🎓 **MCA Graduate (2024)** from Dr. D. Y. Patil Center for Management & Research, Pune  
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I’m **Sachin Rathod**, a passionate and detail-oriented **Java Full Stack Developer** ready to begin my professional journey in the IT industry.  
+I specialize in building efficient, scalable, and user-friendly web applications using **Java, Spring Boot, React, and SQL**.  
+
+💡 I love solving complex coding challenges and turning ideas into working, impactful software.  
+💼 My goal is to contribute to innovative projects that improve system performance and user experience.  
+
+- 🎓 **MCA Graduate (2024)** – Dr. D. Y. Patil Center for Management & Research, Pune  
 - 🌱 Currently learning **Advanced React, Microservices, and AWS Deployment**  
 - 🤝 Open to **Full Stack / Backend Developer** roles (Java, Spring Boot, React)  
 - 📫 Reach me at: **[Sachinrathod8088@gmail.com](mailto:sachinrathod8088@gmail.com)**  
 - ⚡ Fun fact: I debug my code faster with music 🎧  
 
----
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/SachinRathod8088/SachinRathod8088/blob/main/1696420253823.jpg" alt="Sachin Rathod" width="250" style="border-radius: 15px; border: 2px solid #4B9CD3; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+
+</td>
+</tr>
+</table>
+
 
 ### 💼 Internship Experience
 
